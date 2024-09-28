@@ -150,10 +150,10 @@
     "sass-loader": "^10.1.1",
     "standard-version": "^9.3.0",
     "terser": "^5.15.0",
-    "vue": "^2.6.12",
+    "vue": "^2.7.16",
     "vue-router": "^3.5.1",
-    "vue-server-renderer": "^2.6.12",
-    "vue-template-compiler": "^2.6.12",
+    "vue-server-renderer": "^2.7.16",
+    "vue-template-compiler": "^2.7.16",
     "vue-test-utils-compat": "0.0.6"
   },
   "keywords": [
